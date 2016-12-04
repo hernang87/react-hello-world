@@ -1,0 +1,36 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "Basic Hello World built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernang87/react-hello-world.git"
+  },
+  "keywords": [
+    "react",
+    "hello",
+    "world",
+    "basic"
+  ],
+  "author": "Hernan Garchtrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernang87/react-hello-world/issues"
+  },
+  "homepage": "https://github.com/hernang87/react-hello-world#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.13.3"
+  }
+}
